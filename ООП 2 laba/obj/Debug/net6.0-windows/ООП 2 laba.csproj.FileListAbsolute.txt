@@ -1,0 +1,16 @@
+E:\Education\2 курс 2 сем\ООП 2 сем\ООП 2 laba\obj\Debug\net6.0-windows\ООП_2_laba.Form1.resources
+E:\Education\2 курс 2 сем\ООП 2 сем\ООП 2 laba\obj\Debug\net6.0-windows\ООП 2 laba.csproj.GenerateResource.cache
+E:\Education\2 курс 2 сем\ООП 2 сем\ООП 2 laba\obj\Debug\net6.0-windows\ООП 2 laba.GeneratedMSBuildEditorConfig.editorconfig
+E:\Education\2 курс 2 сем\ООП 2 сем\ООП 2 laba\obj\Debug\net6.0-windows\ООП 2 laba.AssemblyInfoInputs.cache
+E:\Education\2 курс 2 сем\ООП 2 сем\ООП 2 laba\obj\Debug\net6.0-windows\ООП 2 laba.AssemblyInfo.cs
+E:\Education\2 курс 2 сем\ООП 2 сем\ООП 2 laba\obj\Debug\net6.0-windows\ООП 2 laba.csproj.CoreCompileInputs.cache
+E:\Education\2 курс 2 сем\ООП 2 сем\ООП 2 laba\bin\Debug\net6.0-windows\ООП 2 laba.exe
+E:\Education\2 курс 2 сем\ООП 2 сем\ООП 2 laba\bin\Debug\net6.0-windows\ООП 2 laba.deps.json
+E:\Education\2 курс 2 сем\ООП 2 сем\ООП 2 laba\bin\Debug\net6.0-windows\ООП 2 laba.runtimeconfig.json
+E:\Education\2 курс 2 сем\ООП 2 сем\ООП 2 laba\bin\Debug\net6.0-windows\ООП 2 laba.dll
+E:\Education\2 курс 2 сем\ООП 2 сем\ООП 2 laba\bin\Debug\net6.0-windows\ref\ООП 2 laba.dll
+E:\Education\2 курс 2 сем\ООП 2 сем\ООП 2 laba\bin\Debug\net6.0-windows\ООП 2 laba.pdb
+E:\Education\2 курс 2 сем\ООП 2 сем\ООП 2 laba\obj\Debug\net6.0-windows\ООП 2 laba.dll
+E:\Education\2 курс 2 сем\ООП 2 сем\ООП 2 laba\obj\Debug\net6.0-windows\ref\ООП 2 laba.dll
+E:\Education\2 курс 2 сем\ООП 2 сем\ООП 2 laba\obj\Debug\net6.0-windows\ООП 2 laba.pdb
+E:\Education\2 курс 2 сем\ООП 2 сем\ООП 2 laba\obj\Debug\net6.0-windows\ООП 2 laba.genruntimeconfig.cache
